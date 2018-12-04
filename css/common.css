@@ -9,14 +9,14 @@ dl, dt, dd, ul, li, form, table, tr, th, td {
 }
 body {
 	font-size: 100%;
-	color: #555555;
+	color: red;
 }
 #container {
 	width: 980px;
 	margin: 0px auto;
 }
 #header h1 , #header p{
-	margin: 10px 0px 10px 5px;
+	margin: 50px 0px 50px 5px;
 }
 #nav ul {
 	background-color: #692f0c;
@@ -45,7 +45,7 @@ body {
 }
 #side ul li {
 	list-style-type: none;
-	margin-bottom: 6px;
+	margin-bottom: 12px;
 }
 #footer {
 	font-size: 75%;
@@ -54,5 +54,5 @@ body {
 	clear: both;
 	padding: 10px 0px 15px;
 	border-top: 4px solid #b3693d;
-	margin-top: 20px;
+	margin-top: 30px;
 }
